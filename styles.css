@@ -1,0 +1,20 @@
+/* General Font Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+}
+
+h2, h5 {
+    font-family: 'Playfair Display', serif;
+}
+
+.basket-item {
+    background-color: #f8f9fa; /* Light background */
+    padding: 16px;
+    border-radius: 8px;
+}
+
+/* Green color for price per kg */
+.text-success {
+    color: #28a745 !important; /* Green color */
+}
